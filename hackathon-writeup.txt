@@ -1,0 +1,13 @@
+The Mozilla Kyrgyz Voice Hackathon and Voice Donation Drive
+
+From March 12-15, Mozilla and the American University of Central Asia ran a Hackathon for voice technology in the Kyrgyz language.
+
+Over the four day event, approximately XXX participants and 7 teams created Android apps, custom client-server models, Telegram bots, as well as other projects which all incorporated Kyrgyz language technology.
+
+Kyrgyz language technology in this scope refers to Speech Recognition, Speech Synthesis, or Natural Language Processing.
+
+On the first day of the Hackathon, participants were given lectures overviewing the algorithms and applications behind these language technologies, as well as Mozilla’s open source tools and data for working with them.
+
+The final projects were judged on criteria relating to: user experience, innovation, impact/potential/sustainability, openness and “voice”-ness. In the end, we award the first and second place teams prizes (RaspberryPi’s and micro:bit computers, respectively).
+
+For the Voice Donation Drive, all registered hackathon participants could compete for who donated the most recordings to the Kyrgyz language via Mozilla’s Common Voice project. The winner donated over 3,000 recordings in just 4 days, and was awarded a limited edition, Mozilla-branded Mycroft Mark 1.
