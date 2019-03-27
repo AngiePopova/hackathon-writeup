@@ -2,7 +2,7 @@ The Mozilla Kyrgyz Voice Hackathon and Voice Donation Drive
 
 From March 12-15, Mozilla and the American University of Central Asia ran a Hackathon for voice technology in the Kyrgyz language.
 
-Over the four day event, approximately XXX participants and 7 teams created Android apps, custom client-server models, Telegram bots, as well as other projects which all incorporated Kyrgyz language technology.
+Over the four day event, approximately 25 participants and 7 teams created Android apps, custom client-server models, Telegram bots, as well as other projects which all incorporated Kyrgyz language technology.
 
 Kyrgyz language technology in this scope refers to Speech Recognition, Speech Synthesis, or Natural Language Processing.
 
